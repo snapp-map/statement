@@ -45,6 +45,14 @@ These will act like external systems but will be **locally implemented** in simp
 
 The project will be divided into **multiple phases**, so that functionality grows step by step.
 
+This statement will be completed gradually. After the list, you can have an overview of the different parts.
+- [snapp](./docs/snapp.md)
+- map
+- food service
+- extra services
+- other
+- seggestions for tools and frameworks
+
 #### **Phase 1 – Core Snapp (Taxi/Parcel)**
 -   Focus only on the **Snapp application**.
 -   Users can register, log in, and request a ride or delivery.
