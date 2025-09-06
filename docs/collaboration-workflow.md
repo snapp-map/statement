@@ -26,8 +26,11 @@ snapp-map/
 │   ├── food-order-service
 │   └── ...
 │
-├── bank-service/ # Banking mini-program ├── email-service/ # Email mini-program └── contracts/ # Shared API specs (OpenAPI, gRPC, schemas)
+├── bank-service/ # Banking mini-program
+├── email-service/ # Email mini-program
+└── contracts/ # Shared API specs (OpenAPI, gRPC, schemas)
 ```
+
 ----------
 
 ## 🔹 2. Branching Model
@@ -64,12 +67,12 @@ We use **GitHub Flow** with clear rules:
 
 -   Use **conventional commits**:
     
-```makefile
-feat: add trip request API
-fix: correct driver assignment bug
-docs: update API usage in README
-test: add unit tests for routing service
-```
+	```makefile
+	feat: add trip request API
+	fix: correct driver assignment bug
+	docs: update API usage in README
+	test: add unit tests for routing service
+	```
     
 -   Keep commits **small and focused**.
     
