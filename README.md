@@ -47,12 +47,12 @@ The project will be divided into **multiple phases**, so that functionality grow
 
 This statement will be completed gradually. After the list, you can have an overview of the different parts.
 - [snapp](./docs/snapp.md)
-- [map](.docs/map.md)
-- [food service](.docs/food.md)
-- [extra services](.docs/extra-services.md)
-- [other](.docs/other.md)
-- [seggestions for tools and frameworks](.docs/suggestion.md)
-- [collaboration workflow 🤝](.docs/collaboration-workflow.md)
+- [map](./docs/map.md)
+- [food service](./docs/food.md)
+- [extra services](./docs/extra-services.md)
+- [other](./docs/other.md)
+- [seggestions for tools and frameworks](./docs/suggestion.md)
+- [collaboration workflow 🤝](./docs/collaboration-workflow.md)
 
 #### **Phase 1 – Core Snapp (Taxi/Parcel)**
 -   Focus only on the **Snapp application**.
